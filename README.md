@@ -25,13 +25,13 @@ You may take this repository as a starting point:
 
 * Get Miniconda from: **https://docs.conda.io/en/latest/miniconda.html**
 
-* Install Miniconda to (e.g.) **/home/<user>/miniconda3**
+* Install Miniconda to (e.g.) **/home/<user\>/miniconda3**
 
 * Add Jupyter Lab to Miniconda: **conda install -c conda-forge jupyterlab**
 
 * Get J from: **https://code.jsoftware.com/wiki/System/Installation**
 
-* Install J to (e.g.) **/home/<user>/J807**
+* Install J to (e.g.) **/home/<user\>/J807**
 
 * Ensure that the J user directory is under the J807 base installation folder (Edit: J807/bin/profilex.ijs)
 
