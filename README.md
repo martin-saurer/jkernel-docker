@@ -15,7 +15,7 @@ and run it:
 
 then use your browser to connect to:
 
-**http://127.0.0.1:8000/?token=<the token that is displayed when running the docker image>**
+**http://127.0.0.1:8000/?token=\<the token that is displayed when running the docker image\>**
 
 ## If you want to build your own Docker-Image
 
